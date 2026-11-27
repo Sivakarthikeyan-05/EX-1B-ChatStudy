@@ -135,10 +135,9 @@ while True:
 s.close()
 ```
 
-##OUTPUT:
+## OUTPUT:
 
-<img width="1482" height="200" alt="image" src="https://github.com/user-attachments/assets/abac74e6-17e1-42b7-b616-561ea363f956" />
-
+<img width="1482" height="200" alt="image" src="https://github.com/user-attachments/assets/eef9fff0-d53d-4223-966f-97a28a9e9db3" />
 
 ## Result:
 
